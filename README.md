@@ -1,6 +1,4 @@
-- 👋 Hi, I’m TokinCK.eth
-- 👀 I’m interested in learning everything i can before i die so i can pass the knowledge to my children.
-- 🌱 I’m currently learning Game Art and Development
+- 👋 Hi, Charlie
 - 💞️ I’m looking to collaborate on learning everything you know
 - 📫 How to reach me Twitter: @CKDesigns7 
 
